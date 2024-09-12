@@ -15,7 +15,7 @@ Nike Shops App is a beautifully designed mobile application built with Flutter, 
 
 ## Screenshots
 
-![Intro Screen](https://via.placeholder.com/400x800?text=Home+Screen)
+![Intro Screen](iphone-x-mockup (1).png)
 ![Home Screen](https://via.placeholder.com/400x800?text=Home+Screen)
 ![Product Details](https://via.placeholder.com/400x800?text=Product+Details)
 ![Cart](https://via.placeholder.com/400x800?text=Cart)
