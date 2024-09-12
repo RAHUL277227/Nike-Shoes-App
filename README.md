@@ -1,6 +1,4 @@
-# Nike-Shoes-App# Nike Shops App
-
-![Nike Logo](https://upload.wikimedia.org/wikipedia/commons/a/a6/Nike_logo.svg)
+# Nike-Shoes-App
 
 ## Overview
 
@@ -16,9 +14,12 @@ Nike Shops App is a beautifully designed mobile application built with Flutter, 
 ## Screenshots
 
 ![Intro Screen](https://github.com/RAHUL277227/Nike-Shoes-App/blob/main/iphone-x-mockup%20(1).png)
-![Home Screen](https://via.placeholder.com/400x800?text=Home+Screen)
-![Product Details](https://via.placeholder.com/400x800?text=Product+Details)
-![Cart](https://via.placeholder.com/400x800?text=Cart)
+![Home Screen](https://github.com/RAHUL277227/Nike-Shoes-App/blob/main/iphone-x-mockup.png)
+![Product Details](https://github.com/RAHUL277227/Nike-Shoes-App/blob/main/iphone-x-mockup%20(3).png)
+![Cart](https://github.com/RAHUL277227/Nike-Shoes-App/blob/main/iphone-x-mockup%20(2).png)
+
+## Project Video Demo
+[Link Text](https://x.com/RahulBuildsApps/status/1832277771336224768)
 
 ## Installation
 
